@@ -7,5 +7,6 @@ _immarkus.*
 vb*.txt
 kw.txt
 topics_by_decade*.json
-data/tokens.pkl
+data/
 models/
+tempref_experiment.py
