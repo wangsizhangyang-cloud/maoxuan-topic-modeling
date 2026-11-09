@@ -3,3 +3,9 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+_immarkus.*
+vb*.txt
+kw.txt
+topics_by_decade*.json
+data/tokens.pkl
+models/
